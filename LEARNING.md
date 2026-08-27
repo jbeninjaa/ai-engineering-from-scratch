@@ -40,6 +40,7 @@ I want to ship an AI product someday, so that I could land clients. I want to up
 |------|--------|------|------|
 | 2026-08-27 | 00/02-git-and-collaboration | 2/2 | Detour: practiced the add, commit, push workflow, branching, checkpoint .gitignore patterns, and git log. |
 | 2026-08-28 | 00/04-apis-and-keys | 3/3 | Detour: practiced environment-based key storage, SDK versus raw HTTP calls, the x-api-key header, and HTTP 429 rate limits; no live call without credentials. |
+| 2026-08-28 | 00/05-jupyter-notebooks | 3/3 | Detour: ran the notebook tips script and practiced kernels, reproducible plots, timing magics, rich output, and notebook-versus-script tradeoffs. |
 
 ## Review queue
 <empty for now; learn adds lessons the quizzes flag>
