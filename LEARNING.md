@@ -46,6 +46,8 @@ I want to ship an AI product someday, so that I could land clients. I want to up
 | 2026-08-30 | 00/12-debugging-and-profiling | 3/3 | Detour: hit exit code 1 on debug_tools.py (script signaling missing PyTorch, not a crash), installed torch and reran to see real shape hooks/NaN detection/gradient norm output; needed prompting on exploding gradients and grad clipping. |
 | 2026-09-08 | 01/01-linear-algebra-intuition | 3/3 | Guided pass: vectors, matrix transformations, dot-product similarity, rank, projection, and Gram-Schmidt; scratch Python ran successfully, while NumPy was unavailable for the library comparison. |
 | 2026-09-08 | 01/02-vectors-matrices-operations | 3/3 | Built and ran scratch Matrix operations, shape checks, broadcasting, determinant/inverse, and a two-layer ReLU forward pass; correctly distinguished element-wise from matrix multiplication. |
+| 2026-09-08 | 01/03-matrix-transformations | 3/3 | Built and ran rotations, scaling, shearing, reflections, composition, eigenvalues, eigendecomposition, and determinant checks; needed one correction on applying transformations right-to-left. |
+| 2026-09-08 | 01/04-calculus-for-ml | 3/3 | Ran numerical and analytical derivatives, gradient descent, Hessian classification, Taylor approximations, and linear regression; needed a worked example for applying the gradient-descent update rule. |
 
 ## Review queue
 <empty for now; learn adds lessons the quizzes flag>
